@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Automatic Traffic Signal Control System.<br>👯 I’m looking to collaborate on Full stack Web Development using MERN stack.<br>🤝 I’m looking for help with Data Science.<br>🌱 I’m currently learning Deep Learning.<br>💬 Ask me about Artificial Intelligence.<br>⚡ Fun fact "The tomorrow you always wanted, is today..."
+🔭 I’m currently working on Automatic Traffic Signal Control System.<br>👯 I’m looking to collaborate on Full stack Web Development using MERN stack.<br>🤝 I’m looking for help with Data Science.<br>🌱 I’m currently learning Deep Learning.<br>💬 Ask me about Artificial Intelligence.<br>⚡ Fun fact "The tomorrow that we always wanted, is today..."
 
 
 ## 🌐 Socials:
