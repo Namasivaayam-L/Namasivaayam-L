@@ -1,0 +1,38 @@
+# .portfolio/config.yml
+name: GitHub Profile - Namasivaayam L.
+slug: namasivaayam-l
+description: >
+  Personal GitHub profile repository featuring tech stack showcase, 
+  GitHub statistics, and social links. Highlights expertise in LLMs, 
+  RAG systems, and AI development with comprehensive tech stack overview.
+tech_stack:
+ - GitHub
+  - Markdown
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - C++
+  - Java
+  - TypeScript
+  - React
+  - Node.js
+  - FastAPI
+  - Next.js
+ - MongoDB
+  - Docker
+  - AWS
+  - Google Cloud
+tags:
+  - Profile
+  - Documentation
+  - GitHub
+  - Tech Stack
+  - AI/ML
+is_active: true
+readme_path: README.md
+repo_url: https://github.com/Namasivaayam-L/Namasivaayam-L
+thumbnail: https://raw.githubusercontent.com/Namasivaayam-L/Namasivaayam-L/main/.portfolio/cover.png
+created_at: 2025-11-27
+updated_at: 2025-11-27
+featured: false
