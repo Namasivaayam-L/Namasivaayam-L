@@ -1,3 +1,25 @@
+# Hi, I’m Namasivaayam
+
+<!-- The typing SVG is a dynamic element that mimics the typewriter from your HTML -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=4000&color=7C3AED&center=false&vCenter=true&width=650&lines=Building+production-grade+Agentic+Systems.;Engineering+scalable+ML+models.;Delivering+reliable%2C+explainable+LLM+solutions.;Practical+ML+engineering+%E2%80%94+no+fluff." alt="Typing SVG" />
+</a>
+
+<p align="left">
+  <b>Machine Learning Engineer • LLMs, RAG & Agentic systems • Full-stack from prototype to production</b>
+</p>
+
+<!-- These badges highlight the core technologies from your HTML intro -->
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+</p>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on LLM's and RAG.<br>👯 I’m looking to collaborate on research related to LLM's<br>🤝 I’m looking for help with Scaling AI agents in production, optimizing inference pipelines, and exploring new training strategies for efficient fine-tuning.<br>🌱 I’m currently learning Advanced agent frameworks, retrieval optimization, and low-level model mechanics to level up as a full-stack AI engineer.<br>💬 Ask me about LLMs, RAG, PyTorch, vector databases, ML pipelines, backend engineering, or how to ship AI features without losing your sanity.<br>⚡ Fun fact  "The tomorrow that we always wanted, is today..."
 
